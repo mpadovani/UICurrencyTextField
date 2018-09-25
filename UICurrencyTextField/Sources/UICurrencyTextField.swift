@@ -8,7 +8,7 @@
 
 import UIKit
 
-public class UICurrencyTextField: UITextField {
+open public class UICurrencyTextField: UITextField {
     
     private var numberFormatter = NumberFormatter()
     
